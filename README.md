@@ -42,3 +42,5 @@ iv.  A dictionary stores students names and marks. Write a Python to find the st
   4. Store the result as the topper
   5. Display the topper’s name and their marks
   6. Stop
+
+CONCLUSION - We learnt the basics and implementation of dictionaries in Python.
